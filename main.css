@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(245, 230, 212);
+    font-family: sans-serif;
+}
+
+#header {
+    text-align: center;
+    margin: 30px 30px auto;
+}
+
+#resetButton {
+    margin: 30px auto;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 10px 10px;
+    border: 4px solid black;
+    outline: none;
+}
+
+.container {
+    border: 5px solid black;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px;
+    background-color: black;
+}
+
+.grid {
+    float: left;
+    background-color: salmon;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
